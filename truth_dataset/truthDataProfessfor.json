@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is Professor Malihe Alikhani?",
+        "ground_truths_answer": "Professor Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University, based in Boston.",
+        "ground_truths": ["Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. She is based in Boston. She researches AI ethics, artificial intelligence, machine learning, and natural language processing."]
+    },
+    {
+        "question": "Which professor researches AI ethics?",
+        "ground_truths_answer": "Professor Malihe Alikhani researches AI ethics, artificial intelligence, machine learning, and natural language processing.",
+        "ground_truths": ["Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. She is based in Boston. She researches AI ethics, artificial intelligence, machine learning, and natural language processing."]
+    },
+    {
+        "question": "Where is Professor Malihe Alikhani based?",
+        "ground_truths_answer": "Professor Malihe Alikhani is based in Boston, at Northeastern University.",
+        "ground_truths": ["Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. She is based in Boston. She researches AI ethics, artificial intelligence, machine learning, and natural language processing."]
+    },
+    {
+        "question": "Which professor works on natural language processing?",
+        "ground_truths_answer": "Professor Malihe Alikhani works on natural language processing and AI ethics.",
+        "ground_truths": ["Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. She is based in Boston. She researches AI ethics, artificial intelligence, machine learning, and natural language processing."]
+    },
+    {
+        "question": "Who researches the ethics of AI at Northeastern University?",
+        "ground_truths_answer": "Professor Malihe Alikhani is researching the ethics of AI at Northeastern University.",
+        "ground_truths": ["Malihe Alikhani is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. She is based in Boston. She researches AI ethics, artificial intelligence, machine learning, and natural language processing."]
+    },
+    {
+        "question": "Who is Professor Christopher Amato?",
+        "ground_truths_answer": "Professor Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University.",
+        "ground_truths": ["Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on artificial intelligence, machine learning, robotics, and multi-agent systems."]
+    },
+    {
+        "question": "Which professor works on multi-agent systems?",
+        "ground_truths_answer": "Professor Christopher Amato works on multi-agent systems, robotics, and reinforcement learning.",
+        "ground_truths": ["Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on artificial intelligence, machine learning, robotics, and multi-agent systems."]
+    },
+    {
+        "question": "What are the research interests of Professor Christopher Amato?",
+        "ground_truths_answer": "Professor Christopher Amato's research interests include artificial intelligence, machine learning, robotics, and multi-agent systems.",
+        "ground_truths": ["Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on artificial intelligence, machine learning, robotics, and multi-agent systems."]
+    },
+    {
+        "question": "Where is Professor Christopher Amato located?",
+        "ground_truths_answer": "Professor Christopher Amato is based in Boston, at Northeastern University.",
+        "ground_truths": "Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on artificial intelligence, machine learning, robotics, and multi-agent systems."
+    },
+    {
+        "question": "Who is researching robotics at Northeastern University?",
+        "ground_truths_answer": "Professor Christopher Amato is researching robotics, multi-agent systems, and artificial intelligence.",
+        "ground_truths": ["Christopher Amato is an associate professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on artificial intelligence, machine learning, robotics, and multi-agent systems."]
+    },
+    {
+        "question": "Who is Professor Silvio Amir?",
+        "ground_truths_answer": "Professor Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University.",
+        "ground_truths": ["Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research interests include natural language processing, machine learning, and social media analysis."]
+    },
+    {
+        "question": "What does Professor Silvio Amir research?",
+        "ground_truths_answer": "Professor Silvio Amir's research focuses on natural language processing, machine learning, and social media analysis.",
+        "ground_truths": ["Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research interests include natural language processing, machine learning, and social media analysis."]
+    },
+    {
+        "question": "Which professor works on social media analysis?",
+        "ground_truths_answer": "Professor Silvio Amir works on social media analysis and natural language processing.",
+        "ground_truths": ["Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research interests include natural language processing, machine learning, and social media analysis."]
+    },
+    {
+        "question": "Where is Professor Silvio Amir based?",
+        "ground_truths_answer": "Professor Silvio Amir is based in Boston, at Northeastern University.",
+        "ground_truths": ["Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research interests include natural language processing, machine learning, and social media analysis."]
+    },
+    {
+        "question": "Who focuses on natural language processing at Northeastern?",
+        "ground_truths_answer": "Professor Silvio Amir focuses on natural language processing and machine learning at Northeastern University.",
+        "ground_truths": ["Silvio Amir is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research interests include natural language processing, machine learning, and social media analysis."]
+    },
+    {
+        "question": "Who is Professor David Bau?",
+        "ground_truths_answer": "Professor David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University.",
+        "ground_truths": ["David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on machine learning, human-computer interaction, and computer vision."]
+    },
+    {
+        "question": "What does Professor David Bau research?",
+        "ground_truths_answer": "Professor David Bau researches machine learning, human-computer interaction, and computer vision.",
+        "ground_truths": ["David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on machine learning, human-computer interaction, and computer vision."]
+    },
+    {
+        "question": "Which professor focuses on human-computer interaction?",
+        "ground_truths_answer": "Professor David Bau focuses on human-computer interaction, machine learning, and computer vision.",
+        "ground_truths": ["David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on machine learning, human-computer interaction, and computer vision."]
+    },
+    {
+        "question": "Where is Professor David Bau located?",
+        "ground_truths_answer": "Professor David Bau is based in Boston, at Northeastern University.",
+        "ground_truths": ["David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on machine learning, human-computer interaction, and computer vision."]
+    },
+    {
+        "question": "Who works on machine learning at Northeastern?",
+        "ground_truths_answer": "Professor David Bau works on machine learning, human-computer interaction, and computer vision at Northeastern.",
+        "ground_truths": ["David Bau is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on machine learning, human-computer interaction, and computer vision."]
+    }
+]

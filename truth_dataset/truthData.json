@@ -1,0 +1,254 @@
+{
+  "response": [
+    {
+      "Query": "What are Malihe Alikhani's contributions to AI ethics?",
+      "Response": "Malihe Alikhani focuses on designing inclusive language technologies that effectively communicate with diverse populations.",
+      "References": "Her research integrates cognitive science, social sciences, and machine learning."
+    },
+    {
+      "Query": "Which professors have PhDs in computer science from Rutgers University?",
+      "Response": "Malihe Alikhani and Stacy Marsella obtained PhDs in computer science from Rutgers University.",
+      "References": "Malihe specializes in AI ethics, while Stacy focuses on human behavior modeling."
+    },
+    {
+      "Query": "Who is interested in multi,agent systems at Northeastern?",
+      "Response": "Christopher Amato works on multi,agent systems with applications in planning and robotics.",
+      "References": "His Lab for Learning and Planning in Robotics focuses on reinforcement learning for multi,agent systems."
+    },
+    {
+      "Query": "Who is Yun Raymond Fu, and what are his main research interests?",
+      "Response": "Yun Raymond Fu is a professor at Northeastern, specializing in machine learning, computational intelligence, and computer vision.",
+      "References": "He has received multiple Young Investigator Awards and has worked on neural network,based augmented reality."
+    },
+    {
+      "Query": "What is Silvio Amir's expertise in user,generated data?",
+      "Response": "Silvio Amir develops NLP and ML methods for subjective and user,generated data such as social media and clinical notes.",
+      "References": "His research addresses personalized inferences, opinion mining, and digital phenotyping."
+    },
+    {
+      "Query": "Which professors integrate AI with AR and VR technologies?",
+      "Response": "Ehsan Elhamifar combines AI systems with AR and VR to assist in complex procedural tasks.",
+      "References": "His work includes egocentric video understanding and adversarial attacks."
+    },
+    {
+      "Query": "Who has worked with robotic manipulation and control?",
+      "Response": "Robert Platt focuses on robotic manipulation, particularly in planning and control under perceptual uncertainties.",
+      "References": "His research has applications in factories, healthcare, and hazardous environments."
+    },
+    {
+      "Query": "Who at Northeastern studies fairness in AI?",
+      "Response": "Silvio Amir and Piotr Sapiezynski study fairness in AI, addressing biases in predictive models and decision,making systems.",
+      "References": "Silvio focuses on social media data, while Piotr measures and mitigates biases in automated systems."
+    },
+    {
+      "Query": "Who has expertise in personal health informatics?",
+      "Response": "Timothy Bickmore and Holly Jimison work on personal health informatics, focusing on relational agents and scalable health monitoring.",
+      "References": "Timothy emphasizes patient,provider interactions, while Holly develops behavioral metrics from health data."
+    },
+    {
+      "Query": "Which faculty members are involved in AI for social good?",
+      "Response": "Silvio Amir and Malihe Alikhani work on AI for social good, focusing on underserved communities and equitable technologies.",
+      "References": "Their work emphasizes fairness, inclusivity, and ethical AI applications."
+    },
+    {
+      "Query": "Who are the professors at Northeastern with backgrounds in cognitive science?",
+      "Response": "Malihe Alikhani and Stacy Marsella have experience in cognitive science, applying it to language technologies and human behavior modeling.",
+      "References": "Their research combines AI with insights from social and cognitive sciences."
+    },
+    {
+      "Query": "What are Tina Eliassi,Rad's key research areas?",
+      "Response": "Tina Eliassi,Rad focuses on data mining, machine learning, and ethics in AI.",
+      "References": "Her work applies to fraud detection, democracy, and computational social science."
+    },
+    {
+      "Query": "Who at Northeastern is affiliated with the Santa Fe Institute?",
+      "Response": "Tina Eliassi,Rad is an external faculty member at the Santa Fe Institute.",
+      "References": "Her interdisciplinary work spans network science and machine learning."
+    },
+    {
+      "Query": "Who studies optimization in machine learning?",
+      "Response": "Nate Derbinsky and Fatemeh Ghoreishi study optimization in machine learning, focusing on algorithms and design under uncertainty.",
+      "References": "Nate developed the Boundary Forest Algorithm; Fatemeh applies Bayesian statistics."
+    },
+    {
+      "Query": "Who explores machine learning applications in education?",
+      "Response": "Adeel Bhutta and Leena Razzaq focus on educational technologies and AI in computer science education.",
+      "References": "Adeel emphasizes active learning, while Leena works on adaptive tutoring systems."
+    },
+    {
+      "Query": "Which faculty have worked at Google?",
+      "Response": "David Bau and David Stein have both worked at Google in roles involving software engineering and data privacy.",
+      "References": "David Bau focuses on human,computer interaction, while David Stein bridges technology and law."
+    },
+    {
+      "Query": "Who studies the role of symmetry in deep learning?",
+      "Response": "Robin Walters studies symmetry in deep learning, using it to improve model efficiency and generalization.",
+      "References": "He directs the Geometric Learning Lab and collaborates with Boston Dynamics AI Institute."
+    },
+    {
+      "Query": "Who at Northeastern has expertise in network science?",
+      "Response": "Tina Eliassi,Rad and Germans Savcisens specialize in network science, addressing transparency and fairness in machine learning algorithms.",
+      "References": "Tina applies her work to societal challenges, while Germans focuses on algorithmic biases."
+    },
+    {
+      "Query": "Who integrates AI with cybersecurity?",
+      "Response": "Youna Jung and David Stein integrate AI with cybersecurity, focusing on IoT security and privacy,enhancing technologies.",
+      "References": "Youna emphasizes ethical computing; David specializes in genomic data privacy."
+    },
+    {
+      "Query": "Which professors focus on AI applications in robotics?",
+      "Response": "Christopher Amato, Robert Platt, and Zhi Tan focus on AI applications in robotics, including multi,agent systems and human,robot interaction.",
+      "References": "Their research spans reinforcement learning, robotic manipulation, and assistive technologies."
+    },
+    {
+      "Query": "Who explores ethics and AI's role in society?",
+      "Response": "Malihe Alikhani, Tina Eliassi,Rad, and Vance Ricks examine the ethical dimensions of AI, including equitable technologies and algorithmic accountability.",
+      "References": "Their work emphasizes inclusivity, fairness, and responsible AI development."
+    },
+    {
+      "Query": "Who works on scalable health monitoring systems?",
+      "Response": "Holly Jimison develops scalable health monitoring systems that use big data to infer health behaviors.",
+      "References": "Her work focuses on behavioral metrics and tailoring interventions for older adults."
+    },
+    {
+      "Query": "Which faculty combine AI and human,computer interaction?",
+      "Response": "David Bau, Stacy Marsella, and Ilmi Yoon work at the intersection of AI and human,computer interaction.",
+      "References": "David focuses on model interpretability; Stacy applies AI to virtual humans; Ilmi engages marginalized communities."
+    },
+    {
+      "Query": "Who has studied action segmentation in videos?",
+      "Response": "Ehsan Elhamifar studies action segmentation and video summarization using AI for complex task assistance.",
+      "References": "His research combines egocentric video understanding with AR/VR technologies."
+    },
+    {
+      "Query": "Which faculty have developed natural language models for user,generated text?",
+      "Response": "Silvio Amir and Kenneth Church develop natural language models, focusing on social media and information retrieval.",
+      "References": "Silvio emphasizes interpretability; Kenneth specializes in retrieval models."
+    },
+    {
+      "Query": "Who researches Bayesian approaches in machine learning?",
+      "Response": "Fatemeh Ghoreishi applies Bayesian methods for design under uncertainty, and Hongyang Zhang studies Bayesian learning theory.",
+      "References": "Their work spans optimization, robustness, and decision,making frameworks."
+    },
+    {
+      "Query": "Which professors study machine learning's fairness in decision,making systems?",
+      "Response": "Silvio Amir, Piotr Sapiezynski, and Germans Savcisens address biases in machine learning algorithms and decision,making.",
+      "References": "Their work ensures equitable outcomes across automated systems."
+    },
+    {
+      "Query": "Who researches reinforcement learning in multi,agent systems?",
+      "Response": "Christopher Amato focuses on reinforcement learning and planning in partially observable multi,agent systems.",
+      "References": "He leads the Lab for Learning and Planning in Robotics."
+    },
+    {
+      "Query": "Who has advanced techniques in document analysis and recognition?",
+      "Response": "Alejandro Toselli designs neural models for document analysis and handwriting recognition.",
+      "References": "He has participated in European projects like READ and HIMANIS."
+    },
+    {
+      "Query": "Which professors apply AI to legal and regulatory frameworks?",
+      "Response": "David Stein applies AI to law, focusing on privacy, data security, and ethical compliance.",
+      "References": "He bridges the gap between law and emerging technologies."
+    },
+    {
+      "Query": "Who is researching the use of AI in healthcare interventions?",
+      "Response": "Timothy Bickmore and Zhi Tan apply AI to healthcare, creating relational agents and assistive technologies.",
+      "References": "Their research supports patient,provider communication and independent living."
+    },
+    {
+      "Query": "Which faculty members are interested in AI for robotics perception?",
+      "Response": "Robert Platt and Robin Walters study robotics perception, with Robin using equivariant neural networks.",
+      "References": "Their work improves robotic manipulation and sample,efficient learning."
+    },
+    {
+      "Query": "Who integrates machine learning with bioinformatics?",
+      "Response": "Shantanu Jain applies semi,supervised learning to bioinformatics and mass spectrometry data.",
+      "References": "His work addresses issues in binary classification and labeling errors."
+    },
+    {
+      "Query": "Who has expertise in human,robot interaction?",
+      "Response": "Stacy Marsella and Zhi Tan study human,robot interaction, focusing on virtual humans and multi,robot coordination.",
+      "References": "Their work has applications in social simulations and assistive robotics."
+    },
+    {
+      "Query": "Who researches AI in educational technologies?",
+      "Response": "Leena Razzaq develops adaptive tutoring systems, while Adeel Bhutta applies active learning techniques in computer science education.",
+      "References": "Leena emphasizes student performance metrics; Adeel focuses on pedagogical improvements."
+    },
+    {
+      "Query": "Which professors focus on computational biology?",
+      "Response": "Ehsan Elhamifar and Mahsan Nourani apply computational methods to biology and biomedical challenges.",
+      "References": "Ehsan integrates AI into activity recognition; Mahsan focuses on bioinformatics."
+    },
+    {
+      "Query": "Who studies visual data understanding in AI?",
+      "Response": "David Bau and Yun Raymond Fu study visual data in AI, emphasizing computer vision and interpretability.",
+      "References": "David's work includes generative models; Yun focuses on augmented reality."
+    },
+    {
+      "Query": "Who is using AI to model social behavior?",
+      "Response": "Stacy Marsella models human cognition and social behavior using AI for health interventions and simulations.",
+      "References": "His work includes applications for social skills training and planning operations."
+    },
+    {
+      "Query": "Who at Northeastern works on generative AI?",
+      "Response": "Zhi Tan and Yun Raymond Fu work on generative AI, focusing on neural network,based augmentation and assistive tools.",
+      "References": "Their projects address applications in robotics and augmented reality."
+    },
+    {
+      "Query": "Who applies statistical modeling in AI research?",
+      "Response": "Shantanu Jain and Fatemeh Ghoreishi use statistical modeling in machine learning and optimization.",
+      "References": "Their methods address data constraints and decision,making under uncertainty."
+    },
+    {
+      "Query": "Which faculty integrate AI with IoT?",
+      "Response": "Youna Jung applies AI to IoT systems, focusing on disaster response and smart cities.",
+      "References": "Her work addresses cybersecurity and ethical AI in IoT."
+    },
+    {
+      "Query": "Who works on dialogue systems for AI?",
+      "Response": "Timothy Bickmore develops dialogue systems to simulate patient,provider interactions.",
+      "References": "His agents emphasize relational aspects of health counseling."
+    },
+    {
+      "Query": "Which professors focus on AI applications in social sciences?",
+      "Response": "Silvio Amir and Tina Eliassi,Rad collaborate with social scientists to develop AI for social good.",
+      "References": "Their work spans personalized analytics and network science."
+    },
+    {
+      "Query": "Who develops machine learning algorithms for big data?",
+      "Response": "Jeongkyu Lee and Yun Raymond Fu develop algorithms for big data analysis and mining.",
+      "References": "Jeongkyu emphasizes visualization; Yun applies computational intelligence."
+    },
+    {
+      "Query": "Who has collaborated on interdisciplinary AI projects?",
+      "Response": "Silvio Amir, Malihe Alikhani, and Timothy Bickmore collaborate across medicine, social sciences, and cognitive sciences.",
+      "References": "Their projects address diverse societal challenges using AI."
+    },
+    {
+      "Query": "Who studies adversarial machine learning?",
+      "Response": "Ehsan Elhamifar and Rajagopal Venkat study adversarial machine learning, focusing on robustness and security.",
+      "References": "Their work enhances AI's reliability in uncertain environments."
+    },
+    {
+      "Query": "Who develops AI for clinical applications?",
+      "Response": "Silvio Amir and Holly Jimison develop AI tools for clinical note analysis and health monitoring.",
+      "References": "Their work enhances interpretability and remote care scalability."
+    },
+    {
+      "Query": "Who at Northeastern focuses on AI for underserved communities?",
+      "Response": "Malihe Alikhani and Silvio Amir focus on developing AI tools to benefit underserved populations.",
+      "References": "Their research integrates social equity and user,centered design."
+    },
+    {
+      "Query": "Who applies AI to biological data analysis?",
+      "Response": "Ehsan Elhamifar and Shantanu Jain work on AI for analyzing biological datasets, including genomics and healthcare data.",
+      "References": "Their methods use low,shot learning and semi,supervised techniques."
+    },
+    {
+      "Query": "Who has published extensively on AI ethics?",
+      "Response": "Tina Eliassi,Rad and Malihe Alikhani have published widely on ethical AI applications and equitable technologies.",
+      "References": "Their work influences AI policy and ethical frameworks."
+    }
+  ]
+}

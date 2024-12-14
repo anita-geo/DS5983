@@ -1,0 +1,152 @@
+[
+    {
+        "query": "Who is working on artificial intelligence at Northeastern University?",
+        "response": "Several professors at Northeastern University are working on artificial intelligence, including Professor Malihe Alikhani, Professor Christopher Amato, and Professor Silvio Amir.",
+        "reference": "Professors Malihe Alikhani, Christopher Amato, and Silvio Amir are all conducting research in the field of artificial intelligence."
+    },
+    {
+        "query": "Which professor works on AI ethics?",
+        "response": "Professor Malihe Alikhani works on AI ethics, focusing on the intersection of AI and social justice.",
+        "reference": "Professor Malihe Alikhani is an expert in AI ethics and AI for social good."
+    },
+    {
+        "query": "Who researches machine learning and robotics?",
+        "response": "Professor Christopher Amato researches both machine learning and robotics, particularly in the context of multi-agent systems.",
+        "reference": "Professor Christopher Amato's research spans machine learning, robotics, and multi-agent systems."
+    },
+    {
+        "query": "Which professor is interested in multi-agent systems?",
+        "response": "Professor Christopher Amato is interested in multi-agent systems and works on reinforcement learning in multi-robot settings.",
+        "reference": "Professor Christopher Amato's research focuses on multi-agent systems, reinforcement learning, and robotics."
+    },
+    {
+        "query": "Which professor focuses on computer vision?",
+        "response": "Professor David Bau focuses on computer vision, particularly in the context of machine learning and human-computer interaction.",
+        "reference": "Professor David Bau's research is focused on computer vision and human-computer interaction."
+    },
+    {
+        "query": "Who is researching natural language processing at Northeastern?",
+        "response": "Professor Silvio Amir is researching natural language processing, especially in the context of personalized and subjective data.",
+        "reference": "Professor Silvio Amir is a key researcher in natural language processing at Northeastern University."
+    },
+    {
+        "query": "Which professor teaches courses on machine learning?",
+        "response": "Professor Adeel Bhutta teaches courses on machine learning at Northeastern University.",
+        "reference": "Professor Adeel Bhutta is responsible for teaching machine learning courses at Northeastern."
+    },
+    {
+        "query": "Who has a Ph.D. in Computer Science from MIT?",
+        "response": "Professor David Bau has a Ph.D. in Computer Science from MIT.",
+        "reference": "Professor David Bau earned his Ph.D. in Computer Science from MIT."
+    },
+    {
+        "query": "Which professor is based in Boston and researches AI ethics?",
+        "response": "Professor Malihe Alikhani is based in Boston and focuses her research on AI ethics.",
+        "reference": "Professor Malihe Alikhani is based in Boston and specializes in AI ethics."
+    },
+    {
+        "query": "Who worked as a research scientist at MIT?",
+        "response": "Professor Christopher Amato worked as a research scientist at MIT before joining Northeastern University.",
+        "reference": "Professor Christopher Amato has prior experience as a research scientist at MIT."
+    },
+    {
+        "query": "Which professor has research interests in robotics?",
+        "response": "Professor Christopher Amato has research interests in robotics, particularly multi-agent systems and reinforcement learning.",
+        "reference": "Professor Christopher Amato's research focuses on robotics and multi-agent systems."
+    },
+    {
+        "query": "Which professor focuses on social media analysis?",
+        "response": "Professor Silvio Amir focuses on social media analysis, with applications in natural language processing and machine learning.",
+        "reference": "Professor Silvio Amir conducts research on social media analysis using NLP and machine learning methods."
+    },
+    {
+        "query": "Who works on the fairness of AI systems?",
+        "response": "Professor Malihe Alikhani works on the fairness of AI systems, addressing issues like bias and inclusivity in AI models.",
+        "reference": "Professor Malihe Alikhani's research includes ensuring fairness and inclusivity in AI systems."
+    },
+    {
+        "query": "Which professor has taught at the University of Pittsburgh?",
+        "response": "Professor Malihe Alikhani has taught at the University of Pittsburgh before joining Northeastern University.",
+        "reference": "Professor Malihe Alikhani taught at the University of Pittsburgh before coming to Northeastern."
+    },
+    {
+        "query": "Which professor has received funding from DARPA and Google?",
+        "response": "Professor Malihe Alikhani has received funding from DARPA and Google for her research.",
+        "reference": "Professor Malihe Alikhani has been funded by organizations such as DARPA and Google."
+    },
+    {
+        "query": "Who works on AI for social good?",
+        "response": "Professor Silvio Amir works on AI for social good, applying AI and machine learning to social impact projects.",
+        "reference": "Professor Silvio Amir is committed to AI for social good, focusing on ethical AI applications."
+    },
+    {
+        "query": "Which professor is researching the impact of AI on society?",
+        "response": "Professor Malihe Alikhani is researching the impact of AI on society, particularly on issues related to social justice and inclusivity.",
+        "reference": "Professor Malihe Alikhani's research examines the societal impact of AI technologies."
+    },
+    {
+        "query": "Who teaches at the Vancouver campus of Northeastern?",
+        "response": "Professor Richard Hoshino teaches at the Vancouver campus of Northeastern University.",
+        "reference": "Professor Richard Hoshino is based at the Vancouver campus and teaches computer science courses."
+    },
+    {
+        "query": "Which professor is researching in the field of brain-computer interfaces?",
+        "response": "Professor Ghanahshyam Kshirsagar is researching brain-computer interfaces at Northeastern University.",
+        "reference": "Professor Ghanahshyam Kshirsagar specializes in brain-computer interface research."
+    },
+    {
+        "query": "Who has a background in electrical engineering and AI?",
+        "response": "Professor Ehsan Elhamifar has a background in electrical engineering and artificial intelligence.",
+        "reference": "Professor Ehsan Elhamifar has degrees in electrical engineering and AI from Johns Hopkins University."
+    },
+    {
+        "query": "Who is a faculty member in the Institute for Experiential AI at Northeastern?",
+        "response": "Professor Tina Eliassi-Rad is a faculty member in the Institute for Experiential AI at Northeastern University.",
+        "reference": "Professor Tina Eliassi-Rad is affiliated with the Institute for Experiential AI at Northeastern."
+    },
+    {
+        "query": "Which professor is working on AI for healthcare applications?",
+        "response": "Professor Holly Jimison is working on AI for healthcare applications, focusing on health informatics and decision support.",
+        "reference": "Professor Holly Jimison is conducting research in AI applications for healthcare."
+    },
+    {
+        "query": "Who is the director of the MS in AI program at Northeastern?",
+        "response": "Professor Ehsan Elhamifar is the director of the MS in AI program at Northeastern University.",
+        "reference": "Professor Ehsan Elhamifar serves as the director of the MS in AI program at Northeastern."
+    },
+    {
+        "query": "Which professor focuses on data-driven AI technologies?",
+        "response": "Professor Yifan Hu focuses on data-driven AI technologies, particularly in information retrieval and network science.",
+        "reference": "Professor Yifan Hu's research focuses on data-driven approaches in AI and network science."
+    },
+    {
+        "query": "Who works on AI in education and health?",
+        "response": "Professor Stacy C. Marsella works on AI in education and health, with a focus on human behavior modeling and health applications.",
+        "reference": "Professor Stacy C. Marsella's research applies AI to education and health, particularly in human behavior modeling."
+    },
+    {
+        "query": "Which professor has a background in computer engineering from the University of Michigan?",
+        "response": "Professor Usama Fayyad has a background in computer engineering from the University of Michigan.",
+        "reference": "Professor Usama Fayyad earned his computer engineering degree from the University of Michigan."
+    },
+    {
+        "query": "Which professor is interested in robotics and computer vision?",
+        "response": "Professor Bruce Maxwell is interested in robotics and computer vision, with a focus on machine learning and AI.",
+        "reference": "Professor Bruce Maxwell's research interests include robotics, computer vision, and machine learning."
+    },
+    {
+        "query": "Who has worked at Baidu and Johns Hopkins University?",
+        "response": "Professor Kenneth Church has worked at Baidu and Johns Hopkins University as a researcher.",
+        "reference": "Professor Kenneth Church has been a researcher at both Baidu and Johns Hopkins University."
+    },
+    {
+        "query": "Which professor has expertise in machine learning and image processing?",
+        "response": "Professor Yifan Hu has expertise in machine learning and image processing, particularly in data visualization.",
+        "reference": "Professor Yifan Hu specializes in machine learning, image processing, and data visualization."
+    },
+    {
+        "query": "Who is working on machine learning for large-scale problems?",
+        "response": "Professor Nate Derbinsky is working on machine learning for large-scale problems in robotics and control systems.",
+        "reference": "Professor Nate Derbinsky's research includes applying machine learning to large-scale problems in robotics."
+    }
+]
